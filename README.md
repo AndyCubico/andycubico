@@ -1,4 +1,3 @@
-[![AndyCubico's GitHub stats](https://github-readme-stats.vercel.app/api?username=andycubico)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center">
   <img src="https://github-readme-stats-ten-wine.vercel.app/api?username=AndyCubico&count_private=true&theme=gotham&show_icons=true" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyCubico&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
