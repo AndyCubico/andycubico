@@ -1,6 +1,6 @@
-![](https://github-readme-stats-ten-wine.vercel.app/api?username=ericlr1&count_private=true&theme=tokyonight&show_icons=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=ericlr1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ericlr1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-ten-wine.vercel.app/api?username=andycubico&count_private=true&theme=tokyonight&show_icons=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=andycubico&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=andycubico&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 <!--
 **AndyCubico/andycubico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
