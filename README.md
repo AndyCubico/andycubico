@@ -1,8 +1,7 @@
-<div align="center">
-  <img src="https://github-readme-stats-ten-wine.vercel.app/api?username=AndyCubico&count_private=true&theme=gotham&show_icons=true" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndyCubico&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact" height="150" alt="languages graph"  />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AndyCubico&theme=gotham&hide_border=false)https://github-readme-streak-stats.herokuapp.com/?user=AndyCubico&theme=vision-friendly-dark&hide_border=false" height="200" alt="streak graph"  />
-</div>
+![](https://github-readme-stats-ten-wine.vercel.app/api?username=ericlr1&count_private=true&theme=tokyonight&show_icons=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ericlr1&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ericlr1&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 <!--
 **AndyCubico/andycubico** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
